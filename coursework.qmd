@@ -1,0 +1,6 @@
+## Relevant Coursework
+·       Linear Algebra: Applied matrix and vector methods to solve systems of equations and analyze linear transformations; studied vector spaces, linear independence, bases, dimension, eigenvalues, and eigenvectors, with applications to quantitative problem-solving.
+
+·       Calculus II: Techniques of integration, applications of definite integrals, sequences and infinite series, convergence tests, Taylor and power series, and parametric and polar equations; developed analytical problem-solving skills through applications of differential and integral calculus.
+
+·       SDS271 Programming for Data Science in Python: Topics included functional and object-oriented programming in Python, data wrangling in Pandas, visualization in Matplotlib in seaborn, as well as creating a reproducible workflow. Culminated in the creation of a viable, open-source Python package.
