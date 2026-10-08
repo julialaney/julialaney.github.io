@@ -1,0 +1,7 @@
+## Currently working on...
+
+# Data analysis project
+I'm currently working on a project for SDS 316: Data and US Criminal Legal System analyzing police and social services spending by county in Washington state. I am using state fiscal data in tandem with crime statistics to explore the relationship between police spending, social spending, and crime rates within each of Washington's 39 counties. I plan to use regression analysis to determine if a decrease in either type of spending is a statistically significant predictor of crime rates. More to come!
+
+# Economics of future technology paper
+I'm writing a paper for ECO 364: The Economics of Future Technology that applies a game theory model to 

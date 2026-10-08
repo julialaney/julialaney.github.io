@@ -1,0 +1,3 @@
+## For Fun!
+
+Check out the super spy message maker. This is a viable, open-source Python package made for SDS 271: Programming for Data Science in Python at Smith College. This package was made in collaboration with Aviva Jotzke.

@@ -1,0 +1,54 @@
+## Resume
+
+[Link to a PDF version](https://www.icloud.com/iclouddrive/0a2EYFySphJ4nQ4SZhNBToNAw)
+
+### Education
+
+Smith College (Northampton, MA)
+
+B.A. Quantitative Economics and Statistical & Data Sciences
+
+Relevant Coursework: 
+
+•	Programming for Data Science in Python: Topics included functional and object-oriented programming in Python, data wrangling in Pandas, visualization in Matplotlib in seaborn, as well as creating a reproducible workflow. Culminated in the creation of a viable, open-source Python package.
+
+•	Multiple Regression: Covered theory and applications of regression techniques: linear and nonlinear multiple regression models, residual and influence analysis, correlation, covariance analysis, indicator variables and time series analysis. Language: R.
+
+•	Linear Algebra: Applied matrix and vector methods to solve systems of equations and analyze linear transformations; studied vector spaces, linear independence, bases, dimension, eigenvalues, and eigenvectors, with applications to quantitative problem-solving.
+
+•	Intermediate Microeconomics: Used microeconomic theory to analyze resource allocation in a market economy and theories of consumer choice and decision making by firms.  
+
+•	Intermediate Macroeconomics: Built a cohesive theoretical framework within which to analyze the workings of the macroeconomy including key variables such as output, inflation, and unemployment.
+
+### Technical Skills
+
+Programming: Python, R, SQL, MATLAB
+
+Tools: Microsoft Excel, Microsoft Office Suite
+
+### Experience
+
+June 2026 – August 2026
+
+Educate Young Girls – Development Intern
+
+•	Researched fundraising pathways & analyzed trends in donations within a nonprofit organization’s development team. Used R and Excel to work with the organization’s 2025 financial report and presented personal recommendations based on my analysis to my supervisor and the grant writing team.
+
+January 2024 – Present
+
+Smith College Clark Science Center, Northampton – Research & Administrative Assistant
+
+•	Works directly with students, faculty, and staff to undertake research projects. Supports daily administrative operations in Smith College's Clark Science Center. 
+
+May 2024 – January 2026
+
+University of Washington, Seattle – Building Services Coordinator
+
+•	Assisted with the set up and coordination of events including weddings, memorials, and corporate conferences at the University of Washington Botanic Garden's Center for Urban Horticulture and the Washington Park Arboretum. Managed the front desk at the Arboretum's Graham Visitors Center.
+
+### Activities
+
+2026-27 Gardiner House Council: Senior Class Representative
+
+•	Plans events and activities for senior class members and attends weekly house meetings.
+
