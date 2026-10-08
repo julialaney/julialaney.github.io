@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Julia Laney",
+    "section": "",
+    "text": "This is a personal website for Julia Laney."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Julia Laney",
+    "section": "",
+    "text": "Link to a PDF version\n\n\nSmith College (Northampton, MA)\nB.A. Quantitative Economics and Statistical & Data Sciences\nRelevant Coursework:\n• Programming for Data Science in Python: Topics included functional and object-oriented programming in Python, data wrangling in Pandas, visualization in Matplotlib in seaborn, as well as creating a reproducible workflow. Culminated in the creation of a viable, open-source Python package.\n• Multiple Regression: Covered theory and applications of regression techniques: linear and nonlinear multiple regression models, residual and influence analysis, correlation, covariance analysis, indicator variables and time series analysis. Language: R.\n• Linear Algebra: Applied matrix and vector methods to solve systems of equations and analyze linear transformations; studied vector spaces, linear independence, bases, dimension, eigenvalues, and eigenvectors, with applications to quantitative problem-solving.\n• Intermediate Microeconomics: Used microeconomic theory to analyze resource allocation in a market economy and theories of consumer choice and decision making by firms.\n• Intermediate Macroeconomics: Built a cohesive theoretical framework within which to analyze the workings of the macroeconomy including key variables such as output, inflation, and unemployment.\n\n\n\nProgramming: Python, R, SQL, MATLAB\nTools: Microsoft Excel, Microsoft Office Suite\n\n\n\nJune 2026 – August 2026\nEducate Young Girls – Development Intern\n• Researched fundraising pathways & analyzed trends in donations within a nonprofit organization’s development team. Used R and Excel to work with the organization’s 2025 financial report and presented personal recommendations based on my analysis to my supervisor and the grant writing team.\nJanuary 2024 – Present\nSmith College Clark Science Center, Northampton – Research & Administrative Assistant\n• Works directly with students, faculty, and staff to undertake research projects. Supports daily administrative operations in Smith College’s Clark Science Center.\nMay 2024 – January 2026\nUniversity of Washington, Seattle – Building Services Coordinator\n• Assisted with the set up and coordination of events including weddings, memorials, and corporate conferences at the University of Washington Botanic Garden’s Center for Urban Horticulture and the Washington Park Arboretum. Managed the front desk at the Arboretum’s Graham Visitors Center.\n\n\n\n2026-27 Gardiner House Council: Senior Class Representative\n• Plans events and activities for senior class members and attends weekly house meetings."
+  },
+  {
+    "objectID": "resume.html#resume",
+    "href": "resume.html#resume",
+    "title": "Julia Laney",
+    "section": "",
+    "text": "Link to a PDF version\n\n\nSmith College (Northampton, MA)\nB.A. Quantitative Economics and Statistical & Data Sciences\nRelevant Coursework:\n• Programming for Data Science in Python: Topics included functional and object-oriented programming in Python, data wrangling in Pandas, visualization in Matplotlib in seaborn, as well as creating a reproducible workflow. Culminated in the creation of a viable, open-source Python package.\n• Multiple Regression: Covered theory and applications of regression techniques: linear and nonlinear multiple regression models, residual and influence analysis, correlation, covariance analysis, indicator variables and time series analysis. Language: R.\n• Linear Algebra: Applied matrix and vector methods to solve systems of equations and analyze linear transformations; studied vector spaces, linear independence, bases, dimension, eigenvalues, and eigenvectors, with applications to quantitative problem-solving.\n• Intermediate Microeconomics: Used microeconomic theory to analyze resource allocation in a market economy and theories of consumer choice and decision making by firms.\n• Intermediate Macroeconomics: Built a cohesive theoretical framework within which to analyze the workings of the macroeconomy including key variables such as output, inflation, and unemployment.\n\n\n\nProgramming: Python, R, SQL, MATLAB\nTools: Microsoft Excel, Microsoft Office Suite\n\n\n\nJune 2026 – August 2026\nEducate Young Girls – Development Intern\n• Researched fundraising pathways & analyzed trends in donations within a nonprofit organization’s development team. Used R and Excel to work with the organization’s 2025 financial report and presented personal recommendations based on my analysis to my supervisor and the grant writing team.\nJanuary 2024 – Present\nSmith College Clark Science Center, Northampton – Research & Administrative Assistant\n• Works directly with students, faculty, and staff to undertake research projects. Supports daily administrative operations in Smith College’s Clark Science Center.\nMay 2024 – January 2026\nUniversity of Washington, Seattle – Building Services Coordinator\n• Assisted with the set up and coordination of events including weddings, memorials, and corporate conferences at the University of Washington Botanic Garden’s Center for Urban Horticulture and the Washington Park Arboretum. Managed the front desk at the Arboretum’s Graham Visitors Center.\n\n\n\n2026-27 Gardiner House Council: Senior Class Representative\n• Plans events and activities for senior class members and attends weekly house meetings."
+  },
+  {
+    "objectID": "projects/forfun.html",
+    "href": "projects/forfun.html",
+    "title": "Julia Laney",
+    "section": "",
+    "text": "Check out the super spy message maker. This is a viable, open-source Python package made for SDS 271: Programming for Data Science in Python at Smith College. This package was made in collaboration with Aviva Jotzke."
+  },
+  {
+    "objectID": "projects/forfun.html#for-fun",
+    "href": "projects/forfun.html#for-fun",
+    "title": "Julia Laney",
+    "section": "",
+    "text": "Check out the super spy message maker. This is a viable, open-source Python package made for SDS 271: Programming for Data Science in Python at Smith College. This package was made in collaboration with Aviva Jotzke."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Julia Laney",
+    "section": "",
+    "text": "My name is Julia Laney and I’m a senior studying Quantitative Economics and Statistical & Data Sciences at Smith College. I am interested in business analytics, AI, and using data analysis to inform economic policy.\nI’m from Seattle, WA and my non-academic interests include hiking, video games, and sports.\nEmail: jlaney@smith.edu\nPhone: (206) 422-5809\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Julia Laney",
+    "section": "",
+    "text": "My name is Julia Laney and I’m a senior studying Quantitative Economics and Statistical & Data Sciences at Smith College. I am interested in business analytics, AI, and using data analysis to inform economic policy.\nI’m from Seattle, WA and my non-academic interests include hiking, video games, and sports.\nEmail: jlaney@smith.edu\nPhone: (206) 422-5809\nGitHub\nLinkedIn"
+  }
+]
