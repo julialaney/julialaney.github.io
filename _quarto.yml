@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Julia Laney"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: coursework.qmd
+        text: Coursework
+      - href: resume.qmd
+        text: Resume
+      - text: Projects
+        menu:
+          - href: projects/currently.qmd
+            text: Current Projects
+          - href: projects/forfun.qmd
+            text: For Fun
+
+format:
+  html:
+    theme: cosmo
