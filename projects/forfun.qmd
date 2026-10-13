@@ -1,3 +1,37 @@
 ## For Fun!
 
-Check out the super spy message maker. This is a viable, open-source Python package made for SDS 271: Programming for Data Science in Python at Smith College. This package was made in collaboration with Aviva Jotzke.
+Co-created the super spy message maker with Aviva Jotzke as a final project for SDS 271: Programming for Data Science in Python in Fall 2025 at Smith College. The SSMM includes three different types of ciphers that can be easily layered on top of each other for added security.
+
+### The Ciphers:
+
+- Caesar ciphers take each character in a message and shift it a given number of indices over from its orignal alphabet or numerical position. For example, the message "abc123" encoded with a 2 shift caesar cipher would become "cde345"
+
+- Morse code is a common spy encoding language where letters and numbers are translated to their morse code counterpart consisting of dots (.) and dashes (-). For example, the letter "a" is ".-" and the number "1" is ".----"
+
+- Atbash ciphers take each character in a message and swap it with its counterpart in a reverse alphabet. For example, the message "abc123" encoded with an atbash cipher would become "zxy098"
+
+### The Functions (Overview):
+
+Encoding functions take the saved message and encode it using the relevant cipher. The function then saves the new encoded message, stores the action in the encryption history, and prints the new encoded message.
+
+Decoding functions take the saved message and, if the spy has provided the correct password, decodes it using the relevant cipher. The function then saves the decoded message, stores the action in the encryptin history, and prints the new decoded message.
+
+Abort clears all attributes of the cipher variable. This function is essential for spies in tricky situations who need to quickly wipe their encryption history and stored message.
+
+Print message prints the current stored message and, if the spy has provided the correct password, prints the encryption history. Spies who do not wish to have the encryption history printed should not supply their password.
+
+Update key updates the key related to the caesar cipher, if spies need to decode multiple layers of caesar cipher encoding. The built in caesar cipher functions stores only the most recently used key, though priorly used keys can be found in the encryption history. This function allows spies looking for more complicated encryption to update their keys as they decode.
+
+### Installation
+
+```python
+#run locally
+git clone https://github.com/aviva-j/super_spy_message_maker_SDS271.git
+
+cd super_spy_message_maker_SDS271
+
+pip install .
+
+#then in your IDE
+from super_spy_message_maker_SDS271.super_spy_code import cipher
+```
