@@ -1,6 +1,22 @@
 ## Relevant Coursework
-·       Linear Algebra: Applied matrix and vector methods to solve systems of equations and analyze linear transformations; studied vector spaces, linear independence, bases, dimension, eigenvalues, and eigenvectors, with applications to quantitative problem-solving.
 
-·       Calculus II: Techniques of integration, applications of definite integrals, sequences and infinite series, convergence tests, Taylor and power series, and parametric and polar equations; developed analytical problem-solving skills through applications of differential and integral calculus.
+- Programming for Data Science in Python: Topics included functional and object-oriented programming in Python, data wrangling in Pandas, visualization in Matplotlib in seaborn, as well as creating a reproducible workflow. Culminated in the creation of a viable, open-source Python package.
 
-·       SDS271 Programming for Data Science in Python: Topics included functional and object-oriented programming in Python, data wrangling in Pandas, visualization in Matplotlib in seaborn, as well as creating a reproducible workflow. Culminated in the creation of a viable, open-source Python package.
+- Linear Algebra: Applied matrix and vector methods to solve systems of equations and analyze linear transformations; studied vector spaces, linear independence, bases, dimension, eigenvalues, and eigenvectors, with applications to quantitative problem-solving.
+
+- Calculus II: Techniques of integration, applications of definite integrals, sequences and infinite series, convergence tests, Taylor and power series, and parametric and polar equations; developed analytical problem-solving skills through applications of differential and integral calculus.
+
+- Multiple Regression: Covered theory and applications of regression techniques: linear and nonlinear multiple regression models, residual and influence analysis, correlation, covariance analysis, indicator
+variables and time series analysis. Language: R.
+
+- Intermediate Microeconomics: Used microeconomic theory to analyze resource allocation in a market economy and theories of consumer choice and decision making by firms.
+
+- Intermediate Macroeconomics: Built a cohesive theoretical framework within which to analyze the workings of the macroeconomy including key variables such as output, inflation, and unemployment.
+
+- Economics of Future Technology: Uses the tools of microeconomics to explore the potential effects of future technologies and to explain how economic incentives shape the types of technologies businesses develop. Topics include brain implants, embryo selection, self-driving cars, nanotechnology, robot nurses, virtual teachers, cognitive enhancing drugs and artificial general intelligences.
+
+- Data & US Criminal Legal System: Introduces the theory and practice of handling data about the United States criminal legal system. In-depth reading about the history of crime, policing, and incarceration, along with discussions and research design inform large data-driven projects. Language: Python.
+
+- Communicating with Data: Explores concepts in decision-making, human perception, color theory and storytelling as they apply to data-driven communication. Builds a strong foundation in how to talk to people about data and successfully communicate findings and trends within data.
+
+- Law and Economics: Economic analysis of legal rules and cases. Topics include property law, contract law, accident law, criminal law, the Coase theorem and the economics of litigation.
