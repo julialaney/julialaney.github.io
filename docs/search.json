@@ -54,5 +54,26 @@
     "title": "About Me",
     "section": "",
     "text": "My name is Julia Laney and I’m a senior studying Quantitative Economics and Statistical & Data Sciences at Smith College. I am interested in business analytics, AI, and using data analysis to inform economic policy.\nI’m from Seattle, Washington and outside of school I enjoy hiking, video games, and sports.\nEmail: jlaney@smith.edu\nPhone: (206) 422-5809\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "projects/currently.html",
+    "href": "projects/currently.html",
+    "title": "Currently working on…",
+    "section": "",
+    "text": "I’m currently working on a project for SDS 316: Data and US Criminal Legal System analyzing police and social services spending by county in Washington state. I am using state fiscal data in tandem with crime statistics to explore the relationship between police spending, social spending, and crime rates within each of Washington’s 39 counties. I plan to use regression analysis to determine if a decrease in either type of spending is a statistically significant predictor of crime rates. More to come!\n\n\n\nI’m writing a paper for ECO 364: The Economics of Future Technology that applies a game theory model to the AI race between China and the US where each country chooses between safeguarded development or acceleration. I am connecting the model to policy, firm incentives, technological leadership, and social welfare."
+  },
+  {
+    "objectID": "projects/currently.html#data-analysis-project",
+    "href": "projects/currently.html#data-analysis-project",
+    "title": "Currently working on…",
+    "section": "",
+    "text": "I’m currently working on a project for SDS 316: Data and US Criminal Legal System analyzing police and social services spending by county in Washington state. I am using state fiscal data in tandem with crime statistics to explore the relationship between police spending, social spending, and crime rates within each of Washington’s 39 counties. I plan to use regression analysis to determine if a decrease in either type of spending is a statistically significant predictor of crime rates. More to come!"
+  },
+  {
+    "objectID": "projects/currently.html#economics-of-future-technology-paper",
+    "href": "projects/currently.html#economics-of-future-technology-paper",
+    "title": "Currently working on…",
+    "section": "",
+    "text": "I’m writing a paper for ECO 364: The Economics of Future Technology that applies a game theory model to the AI race between China and the US where each country chooses between safeguarded development or acceleration. I am connecting the model to policy, firm incentives, technological leadership, and social welfare."
   }
 ]
