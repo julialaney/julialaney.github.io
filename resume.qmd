@@ -1,54 +1,42 @@
 ## Resume
 
-[Link to a PDF version](https://www.icloud.com/iclouddrive/0a2EYFySphJ4nQ4SZhNBToNAw)
+[Link to a PDF version](files/Julia-Laney-Resume-.pdf)
 
-### Education
+### EDUCATION
 
-Smith College (Northampton, MA)
-
-B.A. Quantitative Economics and Statistical & Data Sciences
+Smith College 									                Northampton, MA 
+B.A. Quantitative Economics and Statistical & Data Sciences	                          	                                                May 2027
 
 Relevant Coursework: 
+•	Programming for Data Science in Python, Multiple Regression, Linear Algebra, Intermediate Microeconomics, Intermediate Macroeconomics, Data & US Criminal Legal System, Economics of Future Technology
 
-•	Programming for Data Science in Python: Topics included functional and object-oriented programming in Python, data wrangling in Pandas, visualization in Matplotlib in seaborn, as well as creating a reproducible workflow. Culminated in the creation of a viable, open-source Python package.
+Projects:
+•	Current SDS seminar project: Analyzing Washington state fiscal data in tandem with crime statistics to explore the relationship between police spending, social spending, and crime rates within each of the state’s 39 counties. Using regression analysis to determine if a decrease in either type of spending is a statistically significant predictor of crime rates. 
+•	Current economics seminar paper: Applying a game theory model to the AI race between China and the US where each country chooses between safeguarded development or acceleration. Connecting the model to policy, firm incentives, technological leadership, and social welfare.
+•	Super Spy Message Maker: Open-source Python package that encodes and decodes Atbash and Caesar ciphers and Morse code. Includes documentation and unit testing.
 
-•	Multiple Regression: Covered theory and applications of regression techniques: linear and nonlinear multiple regression models, residual and influence analysis, correlation, covariance analysis, indicator variables and time series analysis. Language: R.
+### TECHNICAL SKILLS
 
-•	Linear Algebra: Applied matrix and vector methods to solve systems of equations and analyze linear transformations; studied vector spaces, linear independence, bases, dimension, eigenvalues, and eigenvectors, with applications to quantitative problem-solving.
-
-•	Intermediate Microeconomics: Used microeconomic theory to analyze resource allocation in a market economy and theories of consumer choice and decision making by firms.  
-
-•	Intermediate Macroeconomics: Built a cohesive theoretical framework within which to analyze the workings of the macroeconomy including key variables such as output, inflation, and unemployment.
-
-### Technical Skills
 
 Programming: Python, R, SQL, MATLAB
-
 Tools: Microsoft Excel, Microsoft Office Suite
 
-### Experience
+### EXPERIENCE
 
 June 2026 – August 2026
-
 Educate Young Girls – Development Intern
-
-•	Researched fundraising pathways & analyzed trends in donations within a nonprofit organization’s development team. Used R and Excel to work with the organization’s 2025 financial report and presented personal recommendations based on my analysis to my supervisor and the grant writing team.
+•	Researched fundraising pathways & analyzed trends in donations within a nonprofit organization’s development team. Used Excel to work with the organization’s 2025 financial report and presented personal recommendations based on my analysis to my supervisor and the grant writing team.
 
 January 2024 – Present
-
-Smith College Clark Science Center, Northampton – Research & Administrative Assistant
-
-•	Works directly with students, faculty, and staff to undertake research projects. Supports daily administrative operations in Smith College's Clark Science Center. 
+Smith College Clark Science Center, Northampton – Administrative & Research Assistant
+•	Supports daily administrative operations in Smith College's Clark Science Center. Works directly with students, faculty, and staff to assist with research projects.
 
 May 2024 – January 2026
-
 University of Washington, Seattle – Building Services Coordinator
-
 •	Assisted with the set up and coordination of events including weddings, memorials, and corporate conferences at the University of Washington Botanic Garden's Center for Urban Horticulture and the Washington Park Arboretum. Managed the front desk at the Arboretum's Graham Visitors Center.
 
-### Activities
+
+### ACTIVITIES
 
 2026-27 Gardiner House Council: Senior Class Representative
-
 •	Plans events and activities for senior class members and attends weekly house meetings.
-
