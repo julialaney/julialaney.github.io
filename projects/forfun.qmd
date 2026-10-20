@@ -55,7 +55,7 @@ from super_spy_message_maker_SDS271.super_spy_code import cipher
 <br><br>
 
 <label for="cipher-type"><strong>Cipher:</strong></label>
-<select id="cipher-type" onchange="toggleKey()">
+<select id="cipher-type">
 <option value="caesar">Caesar</option>
 <option value="atbash">Atbash</option>
 <option value="morse">Morse Code</option>
@@ -70,8 +70,8 @@ from super_spy_message_maker_SDS271.super_spy_code import cipher
 
 <br>
 
-<button type="button" onclick="encodeMessage()">Encode</button>
-<button type="button" onclick="decodeMessage()">Decode</button>
+<button type="button" id="encode-button">Encode</button>
+<button type="button" id="decode-button">Decode</button>
 
 <br><br>
 
