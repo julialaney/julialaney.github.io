@@ -1,6 +1,12 @@
 ## For Fun!
 
-Co-created the super spy message maker with Aviva Jotzke as a final project for SDS 271: Programming for Data Science in Python in Fall 2025 at Smith College. The SSMM includes three different types of ciphers that can be easily layered on top of each other for added security.
+## SuperSPy Package
+
+::: {.columns}
+
+::: {.column width="60%"}
+
+I co-created the SuperSPy package with Aviva Jotzke as a final project for SDS 271: Programming for Data Science in Python in Fall 2025 at Smith College. The SSMM includes three different types of ciphers that can be easily layered on top of each other for added security.
 
 ### The Ciphers:
 
@@ -35,3 +41,45 @@ pip install .
 #then in your IDE
 from super_spy_message_maker_SDS271.super_spy_code import cipher
 ```
+:::
+
+:::{.column width="30%"}
+
+
+### Try it out
+
+<div class="cipher-widget">
+<label for="cipher-input"><strong>Message:</strong></label><br>
+<textarea id="cipher-input" rows="4" style="width:100%;" placeholder="Type something here..."></textarea>
+
+<br><br>
+
+<label for="cipher-type"><strong>Cipher:</strong></label>
+<select id="cipher-type" onchange="toggleKey()">
+<option value="caesar">Caesar</option>
+<option value="atbash">Atbash</option>
+<option value="morse">Morse Code</option>
+</select>
+
+<br><br>
+
+<div id="key-container">
+<label for="cipher-key"><strong>Caesar shift:</strong></label>
+<input id="cipher-key" type="number" value="3" min="0" max="25" style="width:70px;">
+</div>
+
+<br>
+
+<button type="button" onclick="encodeMessage()">Encode</button>
+<button type="button" onclick="decodeMessage()">Decode</button>
+
+<br><br>
+
+<strong>Result:</strong>
+<div id="cipher-output" style="min-height:50px; padding:10px; border:1px solid #ccc; border-radius:5px; margin-top:5px; overflow-wrap:anywhere;"></div>
+</div>
+
+<script src="cipher.js"></script>
+:::
+
+:::
