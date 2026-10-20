@@ -31,19 +31,6 @@ Print message prints the current stored message and, if the spy has provided the
 
 Update key updates the key related to the caesar cipher, if spies need to decode multiple layers of caesar cipher encoding. The built in caesar cipher functions stores only the most recently used key, though priorly used keys can be found in the encryption history. This function allows spies looking for more complicated encryption to update their keys as they decode.
 
-### Installation
-
-```python
-#run locally
-git clone https://github.com/aviva-j/super_spy_message_maker_SDS271.git
-
-cd super_spy_message_maker_SDS271
-
-pip install .
-
-#then in your IDE
-from super_spy_message_maker_SDS271.super_spy_code import cipher
-```
 :::
 
 :::{.column width="45%"}

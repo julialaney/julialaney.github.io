@@ -1,0 +1,38 @@
+.cipher-widget {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 450px;
+}
+
+.cipher-widget textarea {
+  width: 100%;
+}
+
+.cipher-widget select {
+  width: fit-content;
+}
+
+#key-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+#cipher-key {
+  width: 70px;
+}
+
+.cipher-buttons {
+  display: flex;
+  gap: 8px;
+  margin: 8px 0;
+}
+
+#cipher-output {
+  min-height: 55px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow-wrap: anywhere;
+}
