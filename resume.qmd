@@ -1,4 +1,7 @@
-## Resume
+---
+title: "Resume"
+page-layout: full
+---
 
 [Link to a PDF version](files/Julia-Laney-Resume-.pdf)
 

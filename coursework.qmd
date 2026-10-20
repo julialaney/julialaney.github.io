@@ -1,4 +1,7 @@
-## Relevant Coursework
+---
+title: "Relevant Coursework"
+page-layout: full
+---
 
 - Programming for Data Science in Python: Topics included functional and object-oriented programming in Python, data wrangling in Pandas, visualization in Matplotlib in seaborn, as well as creating a reproducible workflow. Culminated in the creation of a viable, open-source Python package.
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>forfun – Julia Laney</title>
+<title>For Fun! – Julia Laney</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -112,7 +112,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -164,23 +164,36 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">For Fun!</h1>
+</div>
 
 
 
+<div class="quarto-title-meta column-page">
 
-<section id="for-fun" class="level2">
-<h2 class="anchored" data-anchor-id="for-fun">For Fun!</h2>
-</section>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
 <section id="superspy-package" class="level2">
 <h2 class="anchored" data-anchor-id="superspy-package">SuperSPy Package</h2>
 <div class="columns">
-<div class="column" style="width:60%;">
+<div class="column" style="width:55%;">
 <p>I co-created the SuperSPy package with Aviva Jotzke as a final project for SDS 271: Programming for Data Science in Python in Fall 2025 at Smith College. The SSMM includes three different types of ciphers that can be easily layered on top of each other for added security.</p>
 <section id="the-ciphers" class="level3">
 <h3 class="anchored" data-anchor-id="the-ciphers">The Ciphers:</h3>
@@ -210,26 +223,22 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co">#then in your IDE</span></span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> super_spy_message_maker_SDS271.super_spy_code <span class="im">import</span> cipher</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-</div><div class="column" style="width:30%;">
+</div><div class="column" style="width:45%;">
 <section id="try-it-out" class="level3">
 <h3 class="anchored" data-anchor-id="try-it-out">Try it out</h3>
 <div class="cipher-widget">
 <label for="cipher-input"><strong>Message:</strong></label><br>
 <textarea id="cipher-input" rows="4" style="width:100%;" placeholder="Type something here..."></textarea>
-<p><br><br></p>
 <p><label for="cipher-type"><strong>Cipher:</strong></label> <select id="cipher-type"> <option value="caesar">Caesar</option> <option value="atbash">Atbash</option> <option value="morse">Morse Code</option> </select></p>
-<p><br><br></p>
 <div id="key-container">
 <p><label for="cipher-key"><strong>Caesar shift:</strong></label> <input id="cipher-key" type="number" value="3" min="0" max="25" style="width:70px;"></p>
 </div>
-<p><br></p>
 <button type="button" id="encode-button">
 Encode
 </button>
 <button type="button" id="decode-button">
 Decode
 </button>
-<p><br><br></p>
 <strong>Result:</strong>
 <div id="cipher-output" style="min-height:50px; padding:10px; border:1px solid #ccc; border-radius:5px; margin-top:5px; overflow-wrap:anywhere;">
 
