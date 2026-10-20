@@ -221,3 +221,8 @@ function toggleKey() {
     keyContainer.style.display = "none";
   }
 }
+
+
+document.getElementById("encode-button").addEventListener("click", encodeMessage);
+document.getElementById("decode-button").addEventListener("click", decodeMessage);
+document.getElementById("cipher-type").addEventListener("change", toggleKey);

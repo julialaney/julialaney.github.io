@@ -217,16 +217,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <label for="cipher-input"><strong>Message:</strong></label><br>
 <textarea id="cipher-input" rows="4" style="width:100%;" placeholder="Type something here..."></textarea>
 <p><br><br></p>
-<p><label for="cipher-type"><strong>Cipher:</strong></label> <select id="cipher-type" onchange="toggleKey()"> <option value="caesar">Caesar</option> <option value="atbash">Atbash</option> <option value="morse">Morse Code</option> </select></p>
+<p><label for="cipher-type"><strong>Cipher:</strong></label> <select id="cipher-type"> <option value="caesar">Caesar</option> <option value="atbash">Atbash</option> <option value="morse">Morse Code</option> </select></p>
 <p><br><br></p>
 <div id="key-container">
 <p><label for="cipher-key"><strong>Caesar shift:</strong></label> <input id="cipher-key" type="number" value="3" min="0" max="25" style="width:70px;"></p>
 </div>
 <p><br></p>
-<button type="button" onclick="encodeMessage()">
+<button type="button" id="encode-button">
 Encode
 </button>
-<button type="button" onclick="decodeMessage()">
+<button type="button" id="decode-button">
 Decode
 </button>
 <p><br><br></p>
