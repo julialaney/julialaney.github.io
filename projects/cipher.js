@@ -223,6 +223,12 @@ function toggleKey() {
 }
 
 
-document.getElementById("encode-button").addEventListener("click", encodeMessage);
-document.getElementById("decode-button").addEventListener("click", decodeMessage);
-document.getElementById("cipher-type").addEventListener("change", toggleKey);
+document.addEventListener("DOMContentLoaded", function () {
+  const encodeButton = document.getElementById("encode-button");
+  const decodeButton = document.getElementById("decode-button");
+  const cipherType = document.getElementById("cipher-type");
+
+  encodeButton.addEventListener("click", encodeMessage);
+  decodeButton.addEventListener("click", decodeMessage);
+  cipherType.addEventListener("change", toggleKey);
+});
